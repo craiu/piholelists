@@ -1,0 +1,7 @@
+#storages used in Redcurl scripts:
+webdav.cloudme.com
+app.koofr.net
+storage.driveonweb.de
+webdav.opendrive.com
+webdav.pcloud.com
+my.powerfolder.com
