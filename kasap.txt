@@ -1,22 +1,32 @@
 # Kaspersky Security Awareness Platform pseudo-phishing domains
 # see https://support.kaspersky.com/ASAP/1.0/en-US/206874.htm
 avviso-archiviazione.it
+business-information.me
 business-information.store
+corp-email.info
 correo-interno.es
 courrier-interne.fr
+delivery-post.me
 docs-edit.online
 e-calendario.es
 ecalendar.ws
+events-calendar.site
+events-calendar.today
+google-calendar.com
 install-soft.me
 internal-mail.com
 interne-mail.de
 kreditbezahlen.de
+lkea.online
+mydeliverypost.com
 official-inbox.com
 paybill.email
 posta-interna.it
 postelivraison.fr
+postoffice.one
 share-to.me
 shop-delivery.store
+soft-exchange.com
 stop-covid.center
 storagealert.work
 taxpay365.com
