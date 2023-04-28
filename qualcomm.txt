@@ -14,21 +14,16 @@ xtrapath4.xboxprod.izatcloud.net
 xtrapath5.xboxprod.izatcloud.net
 xtrapath6.xboxprod.izatcloud.net
 # derived from DNS data:
-info.izatcloud.net
 path1_new.qcomgeo2.com
 path2_new.qcomgeo2.com
 path3_new.qcomgeo2.com
-time.izatcloud.net
 xtra2.gpsonextra.net
 xtra2_new.qcomgeo2.com
 xtra3.gpsonextra.net
-xtrapath1.izatcloud.net
 xtrapath1_new.qcomgeo2.com
 xtrapath1.qcomgeo2.com
-xtrapath2.izatcloud.net
 xtrapath2_new.qcomgeo2.com
 xtrapath2.qcomgeo2.com
-xtrapath3.izatcloud.net
 xtrapath3_new.qcomgeo2.com
 xtrapath3.qcomgeo2.com
 xtratime.qcomgeo2.com
