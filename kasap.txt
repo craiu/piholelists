@@ -33,3 +33,10 @@ taxpay365.com
 thedeliverypost.com
 top-programme.de
 vosmarchandises.fr
+# new domains, 2023-06-21
+kaspersky.today
+kasperskygroup.com
+justmailweb.com
+medcenter.world
+free-clinics.co
+state-official.info
